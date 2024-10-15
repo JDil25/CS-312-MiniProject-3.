@@ -1,0 +1,69 @@
+/* Styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #ffffff;
+}
+z
+/* Styles for headings */
+h1 {
+    color: #ff0000;
+}
+
+/* Form styling */
+form {
+    margin-bottom: 20px;
+}
+
+/* Input, textarea, and button styling */
+input, textarea, button {
+    display: block;
+    margin: 10px 0;
+}
+
+/* Textarea specific styles */
+textarea {
+    width: 100%;
+    height: 100px;
+    resize: vertical;
+}
+
+/* Button styles */
+button {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #f6f6f6;
+}
+
+/* Unordered list styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* List item styling */
+li {
+    background: rgb(247, 0, 0);
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+/* Anchor tag styling */
+a {
+    color: #101010;
+}
+
+/* Anchor hover effect */
+a:hover {
+    text-decoration: underline;
+}
